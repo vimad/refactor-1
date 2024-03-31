@@ -1,0 +1,6 @@
+"Report Date","Settlement Date","Scheme","Transaction Type","Count","Source Currency","Source Amount","Settlement Currency","Settlement Amount","Fees","Net Settlement"
+"20230915","202308","Direct Debit","Direct Debit - Purchase","78","AUD","1425.97","AUD","1425.97","-27.80","1398.17"
+"20230915","202308","EFTPOS","Purchase","3","AUD","240.90","AUD","240.90","-4.29","236.61"
+"20230915","202308","Mastercard","Purchase","100","AUD","37939.04","AUD","34799.00","-746.08","34052.92"
+"20230915","202308","Visa","Purchase","19","AUD","38.38","AUD","38.38","-2.66","35.72"
+"20230915","202308","Visa","Purchase","19","USD","38.38","AUD","38.38","-2.66","35.72"

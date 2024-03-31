@@ -1,0 +1,25 @@
+"Report Date","15/09/2023"
+"Settlement Date","01/08/2023 to 31/08/2023"
+
+"Scheme","Count","Source Currency","Source Amount","Settlement Currency","Settlement Amount","Fees","Net Settlement"
+EFTPOS
+"Purchase","3.0","AUD","240.9","AUD","240.9","-4.29","236.61"
+"Total","3.0","AUD","240.9","AUD","240.9","-4.29","236.61"
+
+Direct Debit
+"Direct Debit - Purchase","78.0","AUD","1425.97","AUD","1425.97","-27.8","1398.17"
+"Total","78.0","AUD","1425.97","AUD","1425.97","-27.8","1398.17"
+
+Visa
+"Purchase","19.0","AUD","38.38","AUD","38.38","-2.66","35.72"
+"Sub Total","19.0","AUD","38.38","AUD","38.38","-2.66","35.72"
+
+"Purchase","19.0","USD","38.38","AUD","38.38","-2.66","35.72"
+"Sub Total","19.0","USD","38.38","AUD","38.38","-2.66","35.72"
+
+"Total","38","","","AUD","76.76","-5.32","71.44"
+
+Mastercard
+"Purchase","100.0","AUD","37939.04","AUD","34799","-746.08","34052.92"
+"Total","100.0","AUD","37939.04","AUD","34799","-746.08","34052.92"
+
